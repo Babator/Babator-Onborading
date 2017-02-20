@@ -51,8 +51,7 @@
     * PublishDate - video publish date & time (timestamp)
     * Keywords – Tags (if existing)
     * Additional data specific to the media (e.g. TV series, episode, actors, etc.) – optional
-
-
+    
 3. Phased Implementation
 
     **3.1 Phase I: Collect User Activity & Actions**
