@@ -15,7 +15,7 @@
 
   ```
   <script type="application/javascript"
-  src="http://eu-services.babator.com/tags?apiKey=075302b0-1069-11e6-98b3-21e382ad5859"
+  src="http://services.babator.com/tags?apiKey=075302b0-1069-11e6-98b3-21e382ad5859"
   async></script>
   ```
 
